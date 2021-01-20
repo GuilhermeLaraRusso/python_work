@@ -19,6 +19,8 @@ class Dog():
         print(self.name.title() + " rolled over!")
 
 
+# A function that’s part of a class is a method
+
 # The __init__() method at w is a special method
 # Python runs automatically whenever we create a new instance based on the
 # Dog class. This method has two leading underscores and two trailing underscores,

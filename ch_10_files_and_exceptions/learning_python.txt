@@ -1,0 +1,5 @@
+In Python you can use "for" to do looping
+In Python you can create various functions
+In Python classes are really hard
+In Python you can create and work with lists
+In Python you can request users input with the input function
